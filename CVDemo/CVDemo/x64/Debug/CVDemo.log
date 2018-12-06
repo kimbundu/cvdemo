@@ -1,0 +1,4 @@
+﻿  CVDemo.cpp
+e:\vs2015data\cvdemo\cvdemo\cvdemo.cpp(234): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  CVDemo.vcxproj -> E:\VS2015data\CVDemo\x64\Debug\CVDemo.exe
+  CVDemo.vcxproj -> E:\VS2015data\CVDemo\x64\Debug\CVDemo.pdb (Full PDB)
