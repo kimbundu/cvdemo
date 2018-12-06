@@ -1,0 +1,3 @@
+﻿  CVDemo.cpp
+d:\work\edu\课程\视觉检测\cvdemo\cvdemo\cvdemo.cpp(225): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  CVDemo.vcxproj -> D:\work\edu\课程\视觉检测\CVDemo\x64\Debug\CVDemo.exe
